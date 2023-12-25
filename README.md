@@ -34,8 +34,8 @@
 ## Output:
 ![image](https://github.com/rakshadharanika/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/149348380/122da682-9c62-4525-aa99-76fc9f010fbc)
 
-### Name:
-### Register Number:
+### Name:V RAKSHA DHARANIKA
+### Register Number:212223230167
 
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
